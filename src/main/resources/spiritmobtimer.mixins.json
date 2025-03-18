@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.jerem2772.spiritmobtimer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SoulCageBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

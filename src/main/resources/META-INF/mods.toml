@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="spiritmobtimer"
+version="1.0.0"
+displayName="Spirit Mob Timer"
+authors="Jerem2772"
+description='''Spirit Mob Timer is an addon for Mob Despawn Timers that makes Spirit's Soul Cage spawners compatible with the despawn timer system.
+This ensures that mobs spawned by Spirit’s Soul Cages properly integrate with the despawn tracking mechanics of Mob Despawn Timers.'''
+
+
+[[dependencies.spiritmobtimer]]
+modId="forge"
+mandatory=true
+versionRange="[40.3.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spiritmobtimer]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,1.19)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spiritmobtimer]]
+modId="spirit"
+mandatory=true
+versionRange="[1.18.2,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.spiritmobtimer]]
+modId = "mobdespawntimers"
+mandatory = true
+versionRange = "[1.0,)"
+ordering = "NONE"
+side = "BOTH"

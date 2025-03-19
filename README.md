@@ -45,11 +45,11 @@ config/spiritmobtimer-common.toml
 
 ### **Default Configuration**
 ```toml
-# Defines the detection range (in blocks) around the Soul Cage for spawned entities.
-# Default: 11.0
-# Minimum: 0.5
-# Maximum: 20.0
-spawning.range = 11.0
+[spawning]
+#Defines the detection range (in blocks) around the Soul Cage for spawned entities.
+#Default: 11.0
+#Range: 0.5 ~ 20.0
+range = 11.0
 ```
 You can **change `spawning.range` to adjust the detection radius**.  
 After modifying the config, restart the game/server for changes to take effect.

@@ -33,7 +33,7 @@ ordering="NONE"
 side="BOTH"
 
 [[dependencies.spiritmobtimer]]
-modId = "mobdespawntimers"
+modId = "despawntimers"
 mandatory = true
 versionRange = "[1.0,)"
 ordering = "NONE"

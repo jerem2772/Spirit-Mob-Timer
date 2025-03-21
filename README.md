@@ -80,8 +80,8 @@ This project is licensed under the **MIT License**. You are free to modify and d
 
 ---
 
-## 💬 Contact & Support
-- **GitHub Issues:** [Report a bug or request a feature](https://github.com/YOUR_GITHUB/spirit-mob-timer/issues)
+## 💬 Contact
+
 - **CurseForge Page:** [Download the mod](https://www.curseforge.com/minecraft/mc-mods/spirit-mob-timer)
 
 ---
